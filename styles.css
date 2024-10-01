@@ -1,0 +1,29 @@
+body {
+    padding-top: 56px;
+}
+
+
+.hero h1 {
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+.hero p {
+    font-size: 1.5rem;
+}
+
+#about img {
+    max-width: 250px;
+    margin: 0 auto;
+    display: block;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+form {
+    max-width: 500px;
+    margin: 0 auto;
+}
